@@ -1,9 +1,31 @@
-##  Just a problem solver ... :bulb:
 
-- Simplicity over complexity </br>
-- Quality over speed  </br>
-- Share over retain knowledge  </br>
+# 🙋🏻‍♂️ About me
 
+I'm just a problem solver, a highly skilled professional with a passion for simplifying complex processes, delivering high-quality work, and sharing knowledge with others. 🍃 :bulb:
+
+# 🗡️🔥 My Specialties
+
+- A/B Test
+- NLP
+- Generative AI
+
+# 💆🏻‍♂️ Hobbies
+
+- Mountain Bike
+- Roller Skating
+- Draw
+
+## 📚 Want to improve? Some cool stuff:
+
+- The Mom Test - Rob Fitzpatrick
+
+- Fooled by Randomness - Nassim Taleb
+
+- The Logic of Scientific Discovery - Karl Pooper
+
+- Practical Statistics for Data Scientists - Peter Bruce
+
+---
 
 <p align="center">
   <a href="https://youtu.be/xPr0BfEcaCQ">
