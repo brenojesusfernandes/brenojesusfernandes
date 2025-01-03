@@ -15,7 +15,7 @@ I'm just a problem solver, a highly skilled professional with a passion for simp
 - Roller Skating
 - Draw
 
-# 📚 Want to improve? Some cool stuff:
+# 📚 Want to improve? Some cool stuff
 
 - The Mom Test - Rob Fitzpatrick
 
