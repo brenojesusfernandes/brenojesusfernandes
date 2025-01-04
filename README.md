@@ -5,6 +5,7 @@ I'm just a problem solver, a highly skilled professional with a passion for simp
 
 # 🗡️🔥 My Specialties
 
+- Forecasting Time Series
 - A/B Test
 - NLP
 - Generative AI
