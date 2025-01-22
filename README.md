@@ -18,7 +18,7 @@ I'm just a problem solver, a highly skilled professional with a passion for simp
 - Python
 - Excel
 
-# Certifications
+# 📜 Certifications
 - AWS Certified Machine Learning Specialty - ⏳ In progress
 - Microsoft Certified: Azure Data Scientist Associate - ⏳ In progress
 - Google Cloud Professional Machine Learning Engineer - ⏳ In progress
