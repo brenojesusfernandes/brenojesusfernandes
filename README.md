@@ -3,13 +3,20 @@
 
 I'm just a problem solver, a highly skilled professional with a passion for simplifying complex processes, delivering high-quality work, and sharing knowledge with others. 🍃 :bulb:
 
-# 🗡️🔥 My Specialties
+# 🔥 My Specialties
 
 - Analytical Thinking
-- Forecasting Time Series
-- A/B Test
-- NLP
-- Generative AI
+- High Impact Work Delivery
+- Adaptability
+
+# 📝 Experience Projects 
+- Generative AI (LLMs)
+- NLP (Classification and Sentiment Analysis)
+
+# 🗡 My Tools
+- SQL
+- Python
+- Excel
 
 # 💆🏻‍♂️ Hobbies
 
